@@ -1,0 +1,1 @@
+this repo contains some logic problems solved with JS.
